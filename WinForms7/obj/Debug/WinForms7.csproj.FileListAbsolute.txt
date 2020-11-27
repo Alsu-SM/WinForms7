@@ -1,0 +1,10 @@
+C:\Users\Alsu\source\repos\WinForms7\WinForms7\bin\Debug\WinForms7.exe.config
+C:\Users\Alsu\source\repos\WinForms7\WinForms7\bin\Debug\WinForms7.exe
+C:\Users\Alsu\source\repos\WinForms7\WinForms7\bin\Debug\WinForms7.pdb
+C:\Users\Alsu\source\repos\WinForms7\WinForms7\obj\Debug\WinForms7.csprojAssemblyReference.cache
+C:\Users\Alsu\source\repos\WinForms7\WinForms7\obj\Debug\WinForms7.Form1.resources
+C:\Users\Alsu\source\repos\WinForms7\WinForms7\obj\Debug\WinForms7.Properties.Resources.resources
+C:\Users\Alsu\source\repos\WinForms7\WinForms7\obj\Debug\WinForms7.csproj.GenerateResource.cache
+C:\Users\Alsu\source\repos\WinForms7\WinForms7\obj\Debug\WinForms7.csproj.CoreCompileInputs.cache
+C:\Users\Alsu\source\repos\WinForms7\WinForms7\obj\Debug\WinForms7.exe
+C:\Users\Alsu\source\repos\WinForms7\WinForms7\obj\Debug\WinForms7.pdb
